@@ -1,5 +1,5 @@
-[![MasterHead](https://firstvite.com/admin/images/77.jpeg)](https://github.com/InTruder-Sec)
-<hr>
+<img height="400" width="1000" src="https://raw.githubusercontent.com/InTruder-Sec/InTruder-Sec/main/background.jpg">
+
 <h1 align="center">Hi 👋, I'm Deep Dhakate</h1>
 <h3 align="center">A Cyber Security Enthusiast from India</h3>
 <hr>
