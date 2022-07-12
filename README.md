@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deep-dhakate-6ba5b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-dhakate-6ba5b7214" height="30" width="40" /></a>
 <a href="https://instagram.com/deep__dhakate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep__dhakate" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/intruder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="intruder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC6rYRrTF_5TSgP3P7cEHXZg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="intruder" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/intruder.sec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="intruder.sec" height="30" width="40" /></a>
 </p>
 
