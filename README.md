@@ -1,8 +1,13 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div> 
+
+
 ## 💫 About Me:
 🎓I'm a Student and Developer.<br>
 💻I’m currently Working on Front End Web Development<br>
 🚀I’m currently learning React Js.<br>
-😎Checkout my Websute [dhakatedeep.web.app](https://dhakatedeep.web.app)
+😎Checkout my Website [dhakatedeep.web.app](https://dhakatedeep.web.app)
 
 <br>
 
