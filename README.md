@@ -5,8 +5,8 @@
 
 ## 💫 About Me:
 🎓I'm a Student and Developer.<br>
-💻I’m currently Working on Front End Web Development<br>
-🚀I’m currently learning React Js.<br>
+💻I’m currently Working on Web Development<br>
+🚀I’m currently learning Backend Development.<br>
 😎Checkout my Website [intruder-security.systems/](http://intruder-security.systems/)
 
 <br>
@@ -36,7 +36,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=InTruder-Sec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=InTruder-Sec&theme=midnight-purple&hide_border=false)<br/><br>
-[![Deep Dhakate's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=InTruder-Sec&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+[![Deep Dhakate's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=InTruder-Sec&bg_color=000000&color=9745f5&line=9745f5&point=8318b6&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=InTruder-Sec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
