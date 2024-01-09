@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./svg.svg" alt="hello"/>
+  <img src="./Banner.png" alt="hello"/>
 </div> 
 
 
 ## 💫 About Me:
+
 🎓I'm a Student and Developer.<br>
 💻I’m currently Working on Web Development<br>
-🚀I’m currently learning Backend Development.<br>
-😎Checkout my Website [intruder-security.systems/](http://intruder-security.systems/)
-
+🚀I’m currently learning Cloud Computing.<br>
+😎Checkout my Website [intruder-security.systems/](https://intruder-security.systems/)
 <br>
 
 ## 🌐 Socials:
@@ -17,7 +17,7 @@
 <br>
 
 ## 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=appwrite,aws,azure,babel,bash,bootstrap,cpp,css,express,figma,firebase,git,heroku,html,jquery,linux,materialui,mongodb,mysql,netlify,nodejs,php,postman,powershell,tailwind,ts,vite,next&perline=15)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,materialui,tailwind,ts,figma,babel,vite,nodejs,express,php,mongodb,mysql,next,aws,gcp,azure,heroku,netlify,firebase,git,bash,powershell,appwrite,postman,cpp,java,python,linux&perline=15)
 
 
 <br>
