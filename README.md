@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Banner.png" alt="hello"/>
+  <img src="./Banner2.png" alt="hello"/>
 </div>
 
 ## About Me
