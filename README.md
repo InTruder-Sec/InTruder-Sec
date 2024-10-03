@@ -27,7 +27,7 @@
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,materialui,tailwind,ja,ts,figma,babel,vite,nodejs,express,php,mongodb,mysql,next,aws,gcp,azure,heroku,netlify,firebase,cloudflare,git,github,bash,powershell,appwrite,postman,cpp,java,python,linux,kali,jenkins,docker,autocad&perline=15)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,materialui,tailwind,js,ts,figma,babel,vite,nodejs,express,php,mongodb,mysql,next,aws,gcp,azure,heroku,netlify,firebase,cloudflare,git,github,bash,powershell,appwrite,postman,cpp,java,python,linux,kali,jenkins,docker,autocad&perline=15)
 
 <br>
 
