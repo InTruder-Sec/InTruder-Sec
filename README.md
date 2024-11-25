@@ -8,7 +8,7 @@
 👋 Hi! My name is Deep and I am from India 🇮🇳 </br>
 🎓 A great Student, Developer and a Security Researcher. <br>
 🚀 I’m currently Learning DevSecOps <br>
-😎 Checkout my Portfolio at <a href="https://deep-dhakate.netlify.app/">deepdhakate.vercel.app</a>
+😎 Checkout my Portfolio at <a href="https://deepdhakate.in">deepdhakate.in</a>
 </H4>
 
 ## 🌐 Socials:
